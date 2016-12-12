@@ -5,6 +5,9 @@
 - Created statefull components called 'Book' and 'BookList' seperatedly.
 - Used Book component in BookList Component for listing the Book data in UI.
 - Used Author component in BookList component for listing the Author data in UI along with Book data.
+- Created AddBookForm component to add the Book obejct to the existed BookList.
+- Created constructor and implemented state management mechanism for the components as well.
+
 
   - Execution steps as below,
       - npm install
